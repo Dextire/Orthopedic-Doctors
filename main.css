@@ -19,6 +19,8 @@ ul
 td
 {
     padding: 5px;
+    font-size: 12px;
+    font-weight: bold;
 }
 
 .flex-col
@@ -36,4 +38,9 @@ td
     flex-direction: row;
     justify-content: space-around;
     margin-top: 20px;
+}
+
+span
+{
+    font-weight: bold;
 }
